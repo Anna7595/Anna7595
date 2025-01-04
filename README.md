@@ -4,6 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my phD about fragment based drug discovery
+- 🔭 I’m currently working on my PhD about fragment based drug discovery
 - 🌱 I’m currently learning in silico optimization methods
 
